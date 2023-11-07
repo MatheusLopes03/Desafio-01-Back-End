@@ -8,7 +8,7 @@ Todo Endereco tem:
 - Bairro
 - Cidade
 - Complemento
-- 
+
 Todo Vendedor é uma Pessoa.
 Todo Cliente é uma  Pessoa.
 Toda Pessoa tem deve ter um método seApresentar().
