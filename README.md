@@ -17,4 +17,4 @@ Toda Pessoa tem deve ter um método seApresentar().
 
 Crie 3 pessoas diferentes
 Crie um código onde cada pessoa se apresente com a seguinte frase: Prazer, meu nome é …
->>>>>>> 2d756763c6c1444284ca9836c1e6b6623fe0b0c5
+
