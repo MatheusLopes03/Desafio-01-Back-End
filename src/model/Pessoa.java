@@ -1,6 +1,6 @@
 package src.model;
 
-public class Pessoa {
+public abstract class Pessoa {
 
     //#region Attributes
     private String nome;
